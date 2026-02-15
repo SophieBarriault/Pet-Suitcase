@@ -58,10 +58,8 @@ To make a suitcase and/or bag that follows you around via voice command and trac
 
 **Core Features:**
 
- - A combined waterfall and rain system
- - Native and non-native plant species:
- - A paludrium design, with both land and a water feature. \
- - Materials used: 
+ - Suitcase can recognize user's voice
+ - Suitcase follows person around
    - 
 
 ---
@@ -88,11 +86,11 @@ To make a suitcase and/or bag that follows you around via voice command and trac
 
 - **Why did you make this project?** 
 
-  + Because I've always wanted to make my own terrarium, and I specifically wanted to make one that simulates a rainforest. 
+  + Just for fun. 
 
 - **What was your source of inspiration for this project?** 
 
-  + My sources of inspiration are the various raining rainforest terrariums and waterfall terrariums I saw people making online, as well as the Cloud Rainforest in Costa Rica.
+  + Sometimes I get tired and just want my bag to follow me around. 
      
 <!-- Contact -->
 ## :handshake: Contact
