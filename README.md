@@ -67,7 +67,7 @@ To make a suitcase and/or bag that follows you around via voice command and trac
 
 --- 
 
-## 🌟 Photo Gallery 
+## 🌟 Desgin Ideation Sketches 
 
 ![Front view, decorated](Assets_/1.jpg) 
 ![image](/Design_Ideation/20260214_234437.jpg)
