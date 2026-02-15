@@ -72,13 +72,13 @@ To make a suitcase and/or bag that follows you around via voice command and trac
 ## 🌟 Photo Gallery 
 
 ![Front view, decorated](Assets_/1.jpg) 
-![image 2](/Design_Ideation/20260214_234437.jpg)
-![image 8](/Design_Ideation/20260214_234443.jpg)
-![image 8](/Design_Ideation/20260214_234448.jpg)
-![image 8](/Design_Ideation/20260214_234455.jpg)
-![image 8](/Design_Ideation/20260214_234459.jpg)
-![image 8](/Design_Ideation/20260214_234503.jpg)
-![image 8](/Design_Ideation/20260214_234508.jpg)
+![image](/Design_Ideation/20260214_234437.jpg)
+![8](/Design_Ideation/20260214_234443.jpg)
+![8](/Design_Ideation/20260214_234448.jpg)
+![8](/Design_Ideation/20260214_234455.jpg)
+![8](/Design_Ideation/20260214_234459.jpg)
+![8](/Design_Ideation/20260214_234503.jpg)
+![8](/Design_Ideation/20260214_234508.jpg)
 
 
 --- 
